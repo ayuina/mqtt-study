@@ -4,6 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 *.bicepparam
+*.key
+*.pem
 
 # User-specific files
 *.rsuser
